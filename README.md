@@ -16,5 +16,3 @@ This repository provides ready-to-use Docker environments for running and experi
 - **Paper**: [Khronos: Geometry and Time-Aware Semantic Mapping for Long-Term Autonomy](https://arxiv.org/abs/2402.13817)
 - Introduces time as a core component in semantic mapping to enable lifelong, temporally-aware SLAM.
 
-## 📦 Repository Structure
-
